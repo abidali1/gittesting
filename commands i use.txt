@@ -1,0 +1,337 @@
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Abid Ali\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}       
+   2 git status
+   3 git branch
+   4 git checkout git status
+   5 git status
+   6 git commit -m "change made by b1"
+   7 git add .
+   8 git commit -m "change made by b1"
+   9 git checkout main
+  10 git checkout b1
+  11 git checkout b2
+  12 git checkout main
+  13 git checkout b1
+  14 git merge main
+  15 git chekcout main
+  16 git checkout main
+  17 git status
+  18 git commit
+  19 git checkout
+  20 git branch
+  21 get merg b1
+  22 git merge b1
+  23 git checkout b1
+  24 git checkout b2
+  25 git checkout main
+  26 git push origin main
+  27 git checkout b1
+  28 git push origin main
+  29 git add .
+  30 git commit -m byb1
+  31 git push origin main
+  32 git status
+  33 git status
+  34 git add .
+  35 git status
+  36 git checkout main
+  37 git checkout b1
+  38 git merge main
+  39 git checkout main
+  40 git merge b1
+  41 git push origin main
+  42 git checkout b1
+  43 git status
+  44 git checkout
+  45 git checkout main
+  46 git status
+  47 git status
+  48 git checkout b1
+  49 git checkout main
+  50 git checkout b1
+  51 git checkout b2
+  52 git checkout main
+  53 git checkout b1
+  54 git checkout b2
+  55 git branch
+  56 git checkout main
+  57 git branch
+  58 git checkout b1
+  59 git checkout main
+  60 git add .
+  61 git commit =m bymain
+  62 git commit -m bymain
+  63 git push origin main
+  64 git check b2
+  65 git checkout b2
+  66 git branch
+  67 git merge main
+  68 git add .
+  69 git commit -m b1
+  70 git merge mian
+  71 git merge main
+  72 git merge main
+  73 git status
+  74 git add .
+  75 git commit resled
+  76 git commit -m  resled
+  77 git status
+  78 git merge main
+  79 git checkout main
+  80 git checkout b1
+  81 git checkout main
+  82 git checkout b2
+  83 git merg main
+  84 git merge main
+  85 git checkout main
+  86 git merge b2
+  87 git status
+  88 git add .
+  89 git status
+  90 git commit -new
+  91 git commit -m new
+  92 git status
+  93 git checkout b2
+  94 git status
+  95 git checkout b1
+  96 git status
+  97 git checkout main
+  98 git push origin main
+  99 git checkout b1
+ 100 git merge main
+ 101 git status
+ 102 git push origin main
+ 103 git status
+ 104 git status
+ 105 git add .
+ 106 git commit -m wow
+ 107 pit push origin main
+ 108 git push origin main
+ 109 git push origin b1
+ 110 git merge main
+ 111 git status
+ 112 git status
+ 113 git checkout main
+ 114 git checkout b1
+ 115 git merge main
+ 116 git checkout main
+ 117 git merge b1
+ 118 get status
+ 119 git status
+ 120 git checkout main
+ 121 git checkout b2
+ 122 git chekout b1
+ 123 git checkout b1
+ 124 git merge main
+ 125 git add .
+ 126 git merge main
+ 127 git commit -b1
+ 128 git commit -m1
+ 129 git merge main
+ 130 git checkout main
+ 131 git merge b1
+ 132 git push origin main
+ 133 git checkout b2
+ 134 git pull main
+ 135 git pull remote main
+ 136 git branch
+ 137 git fetch
+ 138 git status
+ 139 git fetch origin/main
+ 140 git fetch origin main
+ 141 git status
+ 142 git status
+ 143 git add .
+ 144 git commit -m b22
+ 145 git merge main
+ 146 git status
+ 147 git merge main
+ 148 git add .
+ 149 git commit -m
+ 150 git commit -m b2
+ 151 git merge main
+ 152 git push origin main
+ 153 git checkout main
+ 154 git push origin main
+ 155 git checkout b2
+ 156 git push origin main
+ 157 git status
+ 158 git branch
+ 159 big add .
+ 160 git add .
+ 161 git commit b2
+ 162 git commit -m  b2
+ 163 git push origin main
+ 164 git checkout main
+ 165 git checkout b2
+ 166 git push origin main
+ 167 git push origin b2
+ 168 git push origin main
+ 169 git checkout main
+ 170 git checkout b1
+ 171 git add .
+ 172 git commit -b1ajaz
+ 173 git commit -m b1ajaz
+ 174 git push origin main
+ 175 git push origin b1
+ 176 git checkout main
+ 177 status
+ 178 git status
+ 179 git checkout b2
+ 180 git merge main
+ 181 git checkout main
+ 182 git add .
+ 183 git commit -m mainbamani
+ 184 git checkout b2
+ 185 git merge main
+ 186 git add .
+ 187 git commit -b2
+ 188 git commit -m
+ 189 git commit -m dd
+ 190 git merge main
+ 191 git checkout main
+ 192 git checkout b2
+ 193 git checkout main
+ 194 git merge b2
+ 195 git checkout b1
+ 196 git status
+ 197 git merge main
+ 198 git checkout b1
+ 199 git checkout b1
+ 200 git branch
+ 201 git status
+ 202 git checkout b2
+ 203 git add .
+ 204 git commit -m resolved
+ 205 git status
+ 206 git checkout main
+ 207 git checkout b1
+ 208 git push origin main
+ 209 git checkout main
+ 210 git merge b1
+ 211 git status
+ 212 git push origin main
+ 213 git branch b2
+ 214 git branch b3
+ 215 git branch
+ 216 git checkout b3
+ 217 git fetch
+ 218 git fetch origin main
+ 219 git status
+ 220 git checkout b2
+ 221 git add .
+ 222 git commit -m b3
+ 223 git checkout b2
+ 224 git fetch origin main
+ 225 git status
+ 226 git fetch
+ 227 git merge b2
+ 228 git pull
+ 229 git pull b2
+ 230 git update
+ 231 git merge orgin/b2
+ 232 git merge remote/b2
+ 233 git merge gittesting/b2
+ 234 git merge https://github.com/abidali1/gittesting.git/b2
+ 235 git status
+ 236 git merge remote
+ 237 git fetch origin/b2
+ 238 git fetch origin
+ 239 git fetch origin b2
+ 240 git merge origin b2
+ 241 git fetch origin b2
+ 242 git checkout b2
+ 243 git merge
+ 244 git merge b2
+ 245 git status
+ 246 git merge b2 -r
+ 247 git pull
+ 248 git pull origin b2
+ 249 git status
+ 250 git checkout main
+ 251 git checkout b2
+ 252 git status
+ 253 git add .
+ 254 git merge .
+ 255 git merge -m 23
+ 256 git merge origin b2
+ 257 git merge origin/b2
+ 258 git fetch origin b2
+ 259 git merge origin/b2
+ 260 git checkout b3
+ 261 git fetch origin main
+ 262 git merge
+ 263 git merge origin
+ 264 git merge origin/main
+ 265 git fethc origin/min
+ 266 git pull origin b2
+ 267 git status
+ 268 git status
+ 269 git fetch origin b1
+ 270 git merge origin b1
+ 271 git merge origin/b1
+ 272 git checkout b1
+ 273 git checkout b3
+ 274 git fetch origin b1
+ 275 gir merge origin/b1
+ 276 git merge origin/b1
+ 277 git merge b1
+ 278 git status
+ 279 git checkout b1
+ 280 git status
+ 281 git checkout
+ 282 git checkout b3
+ 283 git merge b1
+ 284 git pull b1
+ 285 git pull origin  b1
+ 286 git add .
+ 287 git commit -m sss
+ 288 git status
+ 289 git fetch origin b1
+ 290 git merge origin/b1
+ 291 git merge origin b1
+ 292 git merge origin/b1
+ 293 git push origin b3
+ 294 git fetch origin b3
+ 295 git merge origin/b3
+ 296 git add .
+ 297 git merge origin/b3
+ 298 git status
+ 299 git commit -m sdf
+ 300 git status
+ 301 git checkout origin b2
+ 302 git checkout  b2
+ 303 git checkout  1
+ 304 git checkout  b1
+ 305 git checkout b3
+ 306 git checkout b1
+ 307 git checkout b2
+ 308 git checkout b3
+ 309 git fetch origin b3
+ 310 git merge
+ 311 git merge origin/b3
+ 312 git merge origin/b3 -force
+ 313 git merge origin/b3 --f
+ 314 git pull origin b3
+ 315 git status
+ 316 git
+ 317 git status
+ 318 git restore
+ 319 git restore 'c:/abid.txt'
+ 320 git restore 'abid.txt'
+ 321 git commit
+ 322 git add .
+ 323 git commit -m a
+ 324 git pull origin b3
+ 325 git branch
+ 326 git push origin b3
+ 327 git fetch origin b3             // fetch and merge == pull
+ 328 git fetch merge origin/b3
+ 329 git  merge origin/b3
+ 330 git reset --hard origin b3
+ 331 git reset --hard origin/b3
+ 332 git reset --hard origin/b3 //reset doc to the one as remote
+
+
+merge meaning copying code from other directory.... not copying current to the other
