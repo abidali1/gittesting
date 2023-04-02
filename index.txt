@@ -2,7 +2,6 @@ abid
 irfan
 yasir
 
-<<<<<<< HEAD
 b2 come into the party
 1 dont know who made this change
 
@@ -13,6 +12,4 @@ b2 come into the party
 5 again added by b1
 
 b2 added this
-=======
 za mara
->>>>>>> main
